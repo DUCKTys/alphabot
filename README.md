@@ -5,6 +5,7 @@
 <!-- buildpack heroku -->
 <b><details><summary>buildpack heroku</summary></b>
 ```bash
+heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
