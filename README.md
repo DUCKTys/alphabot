@@ -3,10 +3,13 @@
 </details>
 
 <!-- buildpack heroku -->
-<b><details><summary>Installation on Termux</summary></b>
+<b><details><summary>buildpack heroku</summary></b>
 ```bash
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
+</details>
 
 <!-- run via termux -->
 <b><details><summary>Installation on Termux</summary></b>
