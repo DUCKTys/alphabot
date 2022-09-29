@@ -2,9 +2,13 @@
 
 </details>
 
+<!-- buildpack heroku -->
+<b><details><summary>Installation on Termux</summary></b>
+```bash
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
-
-<!-- Installation via Termux -->
+<!-- run via termux -->
 <b><details><summary>Installation on Termux</summary></b>
 ```bash
 > apt update
